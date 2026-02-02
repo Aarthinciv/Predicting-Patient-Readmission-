@@ -73,6 +73,6 @@ The study reinforces the **need for improved predictive models** in healthcare a
 ## 👩‍💻 About Me  
 I'm **Aarthi Vijayaragavan**, a **Data Analytics** student at **National College of Ireland**, passionate about AI, healthcare, and predictive analytics. My goal is to leverage **machine learning** for **data-driven healthcare solutions**, focusing on improving hospital outcomes and patient care.  
 
-📧 **x23438533@student.ncirl.ie**  
+📧 **aarthiragav6666@gmail.com**  
 
 
